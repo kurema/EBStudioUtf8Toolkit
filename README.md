@@ -1,0 +1,2 @@
+# EBStudioUtf8Toolkit
+EBStudioにUTF8形式のhtmlを入力するためのツールキット
