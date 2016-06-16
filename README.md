@@ -1,6 +1,10 @@
 # EBStudioUtf8Toolkit
 EBStudioにUTF8形式のhtmlを入力するためのツールキット
 
+## 注意！
+このツールキットはObsoleteです。EBStudioUtf8ToolkitSharpの方が高速かつ確実です。  
+ただし、実行内容はほぼ同等ですし、こちらの方が外字フォントが大きく見やすくなります。
+
 ## 使い方
 1. このファイルをダウンロードして展開します。
 2. Toolkitフォルダ内に変換したいファイルを"main.utf8.html"として配置します。
